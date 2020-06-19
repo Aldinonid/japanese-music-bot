@@ -1,5 +1,7 @@
 # シンプルな日本の音楽ボット
 > YouTube動画を再生し、設定が非常に簡単な日本の音楽ボット。
+
+![Example](https://raw.githubusercontent.com/notmaxi/japanese-music-bot/master/example.png)
 ## インストール
 ```
 NodeJSをインストールする必要があります！
