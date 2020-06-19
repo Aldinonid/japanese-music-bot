@@ -1,0 +1,5 @@
+{
+	"prefix": "希望の接頭辞を付けます。",
+	"token": "公式のDiscordボットトークンをここに配置します。",
+  "youtube_api_key": "ここに公式のYouTube APIトークンを配置します。"
+}
