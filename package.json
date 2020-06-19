@@ -1,0 +1,21 @@
+{
+  "name": "japanese-music-bot",
+  "version": "1.0.0",
+  "description": "YouTube動画を再生し、設定が非常に簡単な日本の音楽ボット。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notmaxi/japanese-music-bot.git"
+  },
+  "author": "https://github.com/notmaxi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "simple-youtube-api": "^5.2.1",
+    "youtube": "^0.1.0",
+    "ytdl-core": "^2.1.7"
+  }
+}
